@@ -1,4 +1,4 @@
-![Header](https://github.com/flawner/flawner/blob/main/assets/15.jpg)
+![Header](<img src="image.jpg" alt="alt text" style="width:100%; height:auto;">)
 
 ## I'm a Fronted-developer
 
