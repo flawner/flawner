@@ -12,3 +12,5 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-1B1B1B?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/camtakoyy)
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-1B1B1B?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/camtakoyy)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flawner&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
