@@ -1,4 +1,4 @@
-<img src="https://github.com/flawner/flawner/raw/main/assets/15.jpg" alt="Header" style="width:100%; height:300px;">
+<img src="https://github.com/flawner/flawner/raw/main/assets/15.jpg" alt="Header" style="width:100%; height:200px;">
 
 ## I'm a Fronted-developer
 
